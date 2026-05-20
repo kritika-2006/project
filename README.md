@@ -1,2 +1,3 @@
 # Project
-# SMART HASSLE SOLVER
+# SMART HASSLE SOLVER 
+# using the tools VS CODE
